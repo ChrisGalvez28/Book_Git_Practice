@@ -1,3 +1,5 @@
 Wrote page 6
 
 java java java
+
+java is cool
